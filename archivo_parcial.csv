@@ -1,0 +1,102 @@
+,Unnamed: 0.6,Unnamed: 0.5,Unnamed: 0.4,Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,ID_Venta,Nombre_Cliente,Apellido_Cliente,Fecha,Producto,Cantidad,Precio_Unitario,Total_Venta,Metodo_Pago,Region
+0,0,0,0,0,0,0,0,1,Ana,García,01-05-2024,Laptop,1,1200.5,1200.5,Tarjeta de Crédito,Norte
+1,1,1,1,1,1,1,1,2,Carlos,López,08-01-2024,Mouse Inalámbrico,2,25.75,51.5,Efectivo,Sur
+2,2,2,2,2,2,2,2,3,Sofía,Martínez,12-01-2024,Teclado Mecánico,1,75.99,75.99,Transferencia Bancaria,Este
+3,3,3,3,3,3,3,3,4,Pedro,Rodríguez,15-01-2024,Monitor 24 pulgadas,1,,,Tarjeta de Débito,Oeste
+4,4,4,4,4,4,4,4,5,Laura,Sánchez,18-01-2024,Auriculares Bluetooth,1,99.95,99.95,Tarjeta de Crédito,Norte
+5,5,5,5,5,5,5,5,6,Diego,Pérez,22-01-2024,Webcam HD,1,45.5,45.5,Efectivo,Sur
+6,6,6,6,6,6,6,6,7,Valentina,Flores,25-01-2024,Impresora Multifunción,1,150.75,150.75,Transferencia Bancaria,Este
+7,7,7,7,7,7,7,7,8,Juan,Ramírez,29-01-2024,Parlantes Estéreo,2,,,Tarjeta de Débito,Oeste
+8,8,8,8,8,8,8,8,9,Martina,Díaz,02-02-2024,SSD 1TB,1,110.0,110.0,Tarjeta de Crédito,Norte
+9,9,9,9,9,9,9,9,10,Sebastián,Gómez,05-02-2024,Memoria RAM 16GB,1,65.8,65.8,Efectivo,Sur
+10,10,10,10,10,10,10,10,11,Lucía,Ruiz,09-02-2024,Laptop,1,1150.0,1150.0,Transferencia Bancaria,Este
+11,11,11,11,11,11,11,11,12,Mateo,Fernández,12-02-2024,Mouse Inalámbrico,1,28.99,28.99,Tarjeta de Débito,Oeste
+12,12,12,12,12,12,12,12,13,Emilia,Vargas,16-02-2024,Teclado Mecánico,2,,,Tarjeta de Crédito,Norte
+13,13,13,13,13,13,13,13,14,Benjamín,Castro,19-02-2024,Monitor 27 pulgadas,1,320.0,320.0,Efectivo,Sur
+14,14,14,14,14,14,14,14,15,Isabella,Herrera,23-02-2024,Auriculares Bluetooth,2,,,Transferencia Bancaria,Este
+15,15,15,15,15,15,15,15,16,Gabriel,Jiménez,26-02-2024,Webcam 4K,1,79.99,79.99,Tarjeta de Débito,Oeste
+16,16,16,16,16,16,16,16,17,Camila,Moreno,01-03-2024,Impresora Láser,1,220.5,220.5,Tarjeta de Crédito,Norte
+17,17,17,17,17,17,17,17,18,Agustín,Suárez,05-03-2024,Parlantes con Subwoofer,1,85.75,85.75,Efectivo,Sur
+18,18,18,18,18,18,18,18,19,Valeria,Núñez,08-03-2024,SSD 500GB,1,75.0,75.0,Transferencia Bancaria,Este
+19,19,19,19,19,19,19,19,20,Máximo,Torres,12-03-2024,Memoria RAM 8GB,2,35.0,70.0,Tarjeta de Débito,Oeste
+20,20,20,20,20,20,20,20,21,Renata,Vega,15-03-2024,Laptop,1,1350.75,1350.75,Tarjeta de Crédito,Norte
+21,21,21,21,21,21,21,21,22,Thiago,Rojas,19-03-2024,Mouse Ergonómico,1,42.2,42.2,Efectivo,Sur
+22,22,22,22,22,22,22,22,23,Florencia,Silva,22-03-2024,Teclado Inalámbrico,1,55.99,55.99,,Este
+23,23,23,23,23,23,23,23,24,Joaquín,Luna,26-03-2024,Monitor Ultrawide,1,450.0,450.0,Tarjeta de Débito,Oeste
+24,24,24,24,24,24,24,24,25,Abril,Soto,29-03-2024,Auriculares con Micrófono,1,69.5,69.5,Tarjeta de Crédito,Norte
+25,25,25,25,25,25,25,25,26,Santino,Díaz,02-04-2024,Webcam Básica,1,,,Efectivo,Sur
+26,26,26,26,26,26,26,26,27,Catalina,Paz,05-04-2024,Impresora de Tickets,1,,,,Este
+27,27,27,27,27,27,27,27,28,Bruno,Herrera,09-04-2024,Parlantes Portátiles,2,,,Tarjeta de Débito,Oeste
+28,28,28,28,28,28,28,28,29,Mía,Flores,12-04-2024,HDD 2TB,1,80.0,80.0,Tarjeta de Crédito,Norte
+29,29,29,29,29,29,29,29,30,Vicente,Gómez,16-04-2024,Memoria RAM 32GB,1,120.0,120.0,Efectivo,Sur
+30,30,30,30,30,30,30,30,31,Elena,Ruiz,19-04-2024,Laptop Gamer,1,1800.99,1800.99,,Este
+31,31,31,31,31,31,31,31,32,Jerónimo,Fernández,23-04-2024,Mouse Vertical,1,38.75,38.75,Tarjeta de Débito,Oeste
+32,32,32,32,32,32,32,32,33,Paula,Vargas,26-04-2024,Teclado RGB,1,110.5,110.5,Tarjeta de Crédito,Norte
+33,33,33,33,33,33,33,33,34,Francisco,Castro,30-04-2024,Monitor Curvo,1,,,Efectivo,Sur
+34,34,34,34,34,34,34,34,35,Emilia,Herrera,03-05-2024,Auriculares In-Ear,2,49.99,99.98,,Este
+35,35,35,35,35,35,35,35,36,Benicio,Jiménez,07-05-2024,Capturadora de Video,1,150.0,150.0,Tarjeta de Débito,Oeste
+36,36,36,36,36,36,36,36,37,Martina,Moreno,10-05-2024,Impresora 3D,1,,,Tarjeta de Crédito,Norte
+37,37,37,37,37,37,37,37,38,Santiago,Suárez,14-05-2024,Soporte para Monitor,1,25.0,25.0,Efectivo,Sur
+38,38,38,38,38,38,38,38,39,Olivia,Núñez,17-05-2024,SSD Externo 1TB,1,130.2,130.2,,Este
+39,39,39,39,39,39,39,39,40,Lautaro,Torres,21-05-2024,Pen Drive 128GB,3,12.5,37.5,Tarjeta de Débito,Oeste
+40,40,40,40,40,40,40,40,41,Valentina,Vega,24-05-2024,Laptop Ultrabook,1,1550.0,1550.0,Tarjeta de Crédito,Norte
+41,41,41,41,41,41,41,41,42,Máximo,Rojas,28-05-2024,Mousepad Gamer,1,15.99,15.99,Efectivo,Sur
+42,42,42,42,42,42,42,42,43,Sofía,Silva,31-05-2024,Teclado Alfanumérico,1,35.5,35.5,,Este
+43,43,43,43,43,43,43,43,44,Agustín,Luna,04-06-2024,Monitor Portátil,1,180.0,180.0,Tarjeta de Débito,Oeste
+44,44,44,44,44,44,44,44,45,Camila,Soto,07-06-2024,Auriculares Over-Ear,1,120.75,120.75,Tarjeta de Crédito,Norte
+45,45,45,45,45,45,45,45,46,Juan,Díaz,11-06-2024,Ring Light,1,30.0,30.0,Efectivo,Sur
+46,46,46,46,46,46,46,46,47,Lucía,Paz,14-06-2024,Scanner Portátil,1,88.99,88.99,,Este
+47,47,47,47,47,47,47,47,48,Mateo,Herrera,18-06-2024,Bocinas Bluetooth,2,18.2,36.4,Tarjeta de Débito,Oeste
+48,48,48,48,48,48,48,48,49,Emilia,Flores,21-06-2024,SSD NVMe 1TB,1,165.0,165.0,Tarjeta de Crédito,Norte
+49,49,49,49,49,49,49,49,50,Benjamín,Gómez,25-06-2024,Tarjeta Gráfica,1,450.5,450.5,Efectivo,Sur
+50,50,50,50,50,50,50,50,51,Isabella,Ruiz,28-06-2024,Laptop 2 en 1,1,1280.0,1280.0,,Este
+51,51,51,51,51,51,51,51,52,Gabriel,Fernández,02-07-2024,Mouse Trackball,1,52.75,52.75,Tarjeta de Débito,Oeste
+52,52,52,52,52,52,52,52,53,Camila,Vargas,05-07-2024,Teclado Ergonómico,1,92.99,92.99,Tarjeta de Crédito,Norte
+53,53,53,53,53,53,53,53,54,Agustín,Castro,09-07-2024,Monitor Táctil,1,310.0,310.0,Efectivo,Sur
+54,54,54,54,54,54,54,54,55,Valeria,Herrera,12-07-2024,Auriculares Deportivos,1,75.5,75.5,,Este
+55,55,55,55,55,55,55,55,56,Máximo,Jiménez,16-07-2024,Micrófono USB,1,60.2,60.2,Tarjeta de Débito,Oeste
+56,56,56,56,56,56,56,56,57,Renata,Moreno,19-07-2024,Plotter de Corte,1,580.0,580.0,Tarjeta de Crédito,Norte
+57,57,57,57,57,57,57,57,58,Thiago,Suárez,23-07-2024,Hub USB,1,19.99,19.99,Efectivo,Sur
+58,58,58,58,58,58,58,58,59,Florencia,Núñez,26-07-2024,SSD Externo 2TB,1,240.0,240.0,,Este
+59,59,59,59,59,59,59,59,60,Joaquín,Torres,30-07-2024,Pen Drive 256GB,2,20.0,40.0,Tarjeta de Débito,Oeste
+60,60,60,60,60,60,60,60,61,Abril,Vega,02-08-2024,Laptop Empresarial,1,1420.5,1420.5,Tarjeta de Crédito,
+61,61,61,61,61,61,61,61,62,Santino,Rojas,06-08-2024,Mouse Óptico,2,18.5,37.0,Efectivo,Sur
+62,62,62,62,62,62,62,62,63,Catalina,Silva,09-08-2024,Teclado Retroiluminado,1,85.0,85.0,,Este
+63,63,63,63,63,63,63,63,64,Bruno,Luna,13-08-2024,Monitor 32 pulgadas,1,,,Tarjeta de Débito,Oeste
+64,64,64,64,64,64,64,64,65,Mía,Soto,16-08-2024,Auriculares Profesionales,1,155.99,155.99,Tarjeta de Crédito,
+65,65,65,65,65,65,65,65,66,Vicente,Díaz,20-08-2024,Cámara IP,1,99.0,99.0,Efectivo,Sur
+66,66,66,66,66,66,66,66,67,Elena,Paz,23-08-2024,Impresora Fotográfica,1,185.2,185.2,Transferencia Bancaria,Este
+67,67,67,67,67,67,67,67,68,Jerónimo,Herrera,27-08-2024,Altavoces Inteligentes,1,70.0,70.0,Tarjeta de Débito,Oeste
+68,68,68,68,68,68,68,68,69,Paula,Flores,30-08-2024,SSD M.2 500GB,1,95.5,95.5,Tarjeta de Crédito,
+69,69,69,69,69,69,69,69,70,Francisco,Gómez,03-09-2024,Tablet Gráfica,1,280.0,280.0,Efectivo,Sur
+70,70,70,70,70,70,70,71,72,Benicio,Fernández,10-09-2024,Mouse Inalámbrico Recargable,1,32.5,32.5,Tarjeta de Débito,Oeste
+71,71,71,71,71,71,71,72,73,Martina,Vargas,13-09-2024,Teclado Compacto,1,62.75,62.75,Tarjeta de Crédito,
+72,72,72,72,72,72,72,73,74,Santiago,Castro,17-09-2024,Monitor para Diseño,1,520.0,520.0,Efectivo,Sur
+73,73,73,73,73,73,73,74,75,Olivia,Herrera,20-09-2024,Auriculares con Cancelación de Ruido,1,180.5,180.5,Transferencia Bancaria,Este
+74,74,74,74,74,74,74,75,76,Lautaro,Jiménez,24-09-2024,Lector de Códigos de Barras,1,115.0,115.0,Tarjeta de Débito,Oeste
+75,75,75,75,75,75,75,76,77,Valentina,Moreno,27-09-2024,Impresora de Etiquetas,1,135.8,135.8,Tarjeta de Crédito,
+76,76,76,76,76,76,76,77,78,Máximo,Suárez,01-10-2024,Mini Parlantes,2,15.0,30.0,Efectivo,Sur
+77,77,77,77,77,77,77,78,79,Sofía,Núñez,04-10-2024,SSD SATA 250GB,1,55.0,55.0,Transferencia Bancaria,Este
+78,78,78,78,78,78,78,79,80,Agustín,Torres,08-10-2024,Pen Drive 64GB,4,8.75,35.0,Tarjeta de Débito,Oeste
+79,79,79,79,79,79,79,80,81,Camila,Vega,11-10-2024,Laptop Ligera,1,1180.0,1180.0,Tarjeta de Crédito,Norte
+80,80,80,80,80,80,80,82,83,Lucía,Silva,18-10-2024,Teclado Bluetooth,1,78.2,78.2,Transferencia Bancaria,Este
+81,81,81,81,81,81,81,83,84,Mateo,Luna,22-10-2024,Monitor para Oficina,1,210.5,210.5,Tarjeta de Débito,Oeste
+82,82,82,82,82,82,82,84,85,Bruno,Luna,13-08-2024,Monitor 32 pulgadas,1,,,Tarjeta de Débito,Oeste
+83,83,83,83,83,83,83,85,86,Mía,Soto,16-08-2024,Auriculares Profesionales,1,155.99,155.99,Tarjeta de Crédito,Norte
+84,84,84,84,84,84,84,86,87,Vicente,Díaz,20-08-2024,Cámara IP,1,99.0,99.0,Efectivo,Sur
+85,85,85,85,85,85,85,87,88,Elena,Paz,23-08-2024,Impresora Fotográfica,1,185.2,185.2,Transferencia Bancaria,Este
+86,86,86,86,86,86,86,88,89,Jerónimo,Herrera,27-08-2024,Altavoces Inteligentes,1,70.0,70.0,Tarjeta de Débito,Oeste
+87,87,87,87,87,87,87,89,90,Paula,Flores,30-08-2024,SSD M.2 500GB,1,95.5,95.5,Tarjeta de Crédito,Norte
+88,88,88,88,88,88,88,90,91,Francisco,Gómez,03-09-2024,Tablet Gráfica,1,280.0,280.0,Efectivo,Sur
+89,89,89,89,89,89,89,92,93,Benicio,Fernández,10-09-2024,Mouse Inalámbrico Recargable,1,32.5,32.5,Tarjeta de Débito,Oeste
+90,90,90,90,90,90,90,93,94,Martina,Vargas,13-09-2024,Teclado Compacto,1,62.75,62.75,Tarjeta de Crédito,Norte
+91,91,91,91,91,91,91,94,95,Santiago,Castro,17-09-2024,Monitor para Diseño,1,520.0,520.0,Efectivo,Sur
+92,92,92,92,92,92,92,95,96,Olivia,Herrera,20-09-2024,Auriculares con Cancelación de Ruido,1,180.5,180.5,Transferencia Bancaria,Este
+93,93,93,93,93,93,93,96,97,Lautaro,Jiménez,24-09-2024,Lector de Códigos de Barras,1,115.0,115.0,Tarjeta de Débito,Oeste
+94,94,94,94,94,94,94,97,98,Valentina,Moreno,27-09-2024,Impresora de Etiquetas,1,135.8,135.8,Tarjeta de Crédito,Norte
+95,95,95,95,95,95,95,98,99,Máximo,Suárez,01-10-2024,Mini Parlantes,2,15.0,30.0,Efectivo,Sur
+96,96,96,96,96,96,96,99,100,Sofía,Núñez,04-10-2024,SSD SATA 250GB,1,55.0,55.0,Transferencia Bancaria,Este
+97,97,97,97,97,97,97,100,101,Agustín,Torres,08-10-2024,Pen Drive 64GB,4,8.75,35.0,Tarjeta de Débito,Oeste
+98,98,98,98,98,98,98,101,102,Camila,Vega,11-10-2024,Laptop Ligera,1,,,Tarjeta de Crédito,Norte
+99,99,99,99,99,99,99,103,104,Lucía,Silva,18-10-2024,Teclado Bluetooth,1,78.2,78.2,Transferencia Bancaria,Este
+100,100,100,100,100,100,100,104,105,Mateo,Luna,22-10-2024,Monitor para Oficina,1,2.0,2.0,Tarjeta de Débito,Oeste
